@@ -1,5 +1,5 @@
 
-# Sunlight-7 SDR2025 reproducibility package
+# Sunlight-7 SDR2026 reproducibility package
 
 This lightweight package reproduces the main calculations, clustering, sensitivity analyses, tables, and figures used in **“Spectral diagnosis of national SDG performance beyond linear aggregation.”**
 
