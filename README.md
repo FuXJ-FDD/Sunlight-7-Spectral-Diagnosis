@@ -60,7 +60,7 @@ The package limits BLAS/OpenMP thread pools to one thread for deterministic and 
 3. Population variance/standard deviation (`ddof=0`) is used inside φ5 and φ6.
 4. GMM input is the seven-dimensional spectrum standardized across countries with `StandardScaler`.
 5. Baseline GMM: four spherical components, `random_state=42`, `n_init=50`.
-6. Input order is preserved from the SDR2025 workbook before GMM fitting.
+6. Input order is preserved from the SDR2026 workbook before GMM fitting.
 7. Archetype names are assigned after fitting from component-level mean spectral profiles.
 8. Sensitivity scenarios are classified with the baseline scaler and baseline four-component GMM, testing whether countries retain their baseline archetype.
 
@@ -70,7 +70,7 @@ The country-level spectra reproduce the supplied reference workbook to machine p
 
 ## Data and map boundary note
 
-The SDR2025 country-level workbook supplied for this analysis is included in `data/input/`. The low-resolution Natural Earth boundary files in `data/geodata/` are public-domain map data and are used only for Figures 2 and S1. Small island states not represented by the low-resolution polygons remain absent from the maps but are retained in all calculations.
+The SDR2026 country-level workbook supplied for this analysis is included in `data/input/`. The low-resolution Natural Earth boundary files in `data/geodata/` are public-domain map data and are used only for Figures 2 and S1. Small island states not represented by the low-resolution polygons remain absent from the maps but are retained in all calculations.
 
 ## Validation
 
