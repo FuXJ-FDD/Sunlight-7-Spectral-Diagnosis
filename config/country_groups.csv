@@ -1,0 +1,170 @@
+ISO3,Country,Income group,Bloc membership
+AFG,Afghanistan,Low income,
+ALB,Albania,Upper-middle income,
+DZA,Algeria,Upper-middle income,
+AGO,Angola,Low income,
+ARG,Argentina,Upper-middle income,
+ARM,Armenia,Upper-middle income,
+AUS,Australia,High income,
+AUT,Austria,High income,G7/EU
+AZE,Azerbaijan,Upper-middle income,
+BHS,"Bahamas, The",High income,
+BHR,Bahrain,High income,
+BGD,Bangladesh,Lower-middle income,
+BRB,Barbados,High income,
+BLR,Belarus,Upper-middle income,
+BEL,Belgium,High income,G7/EU
+BLZ,Belize,Upper-middle income,
+BEN,Benin,Lower-middle income,
+BTN,Bhutan,Upper-middle income,
+BOL,Bolivia,Lower-middle income,
+BIH,Bosnia and Herzegovina,Upper-middle income,
+BWA,Botswana,Upper-middle income,
+BRA,Brazil,Upper-middle income,BRICS
+BRN,Brunei Darussalam,High income,ASEAN
+BGR,Bulgaria,Upper-middle income,G7/EU
+BFA,Burkina Faso,Low income,
+BDI,Burundi,Low income,
+CPV,Cabo Verde,Upper-middle income,
+KHM,Cambodia,Lower-middle income,ASEAN
+CMR,Cameroon,Lower-middle income,
+CAN,Canada,High income,G7/EU
+CAF,Central African Republic,Low income,
+TCD,Chad,Low income,
+CHL,Chile,High income,
+CHN,China,Upper-middle income,BRICS
+COL,Colombia,Upper-middle income,
+COM,Comoros,Lower-middle income,
+COD,"Congo, Dem. Rep.",Low income,
+COG,"Congo, Rep.",Lower-middle income,
+CRI,Costa Rica,Upper-middle income,
+CIV,Cote d'Ivoire,Lower-middle income,
+HRV,Croatia,High income,G7/EU
+CUB,Cuba,Upper-middle income,
+CYP,Cyprus,High income,G7/EU
+CZE,Czechia,High income,G7/EU
+DNK,Denmark,High income,G7/EU
+DJI,Djibouti,Lower-middle income,
+DOM,Dominican Republic,Upper-middle income,
+ECU,Ecuador,Upper-middle income,
+EGY,"Egypt, Arab Rep.",Upper-middle income,BRICS
+SLV,El Salvador,Upper-middle income,
+ERI,Eritrea,Low income,
+EST,Estonia,High income,G7/EU
+SWZ,Eswatini,Lower-middle income,
+ETH,Ethiopia,Low income,BRICS
+FJI,Fiji,High income,
+FIN,Finland,High income,G7/EU
+FRA,France,High income,G7/EU
+GAB,Gabon,Upper-middle income,
+GMB,"Gambia, The",Lower-middle income,
+GEO,Georgia,Upper-middle income,
+DEU,Germany,High income,G7/EU
+GHA,Ghana,Lower-middle income,
+GRC,Greece,High income,G7/EU
+GTM,Guatemala,Lower-middle income,
+GIN,Guinea,Low income,
+GNB,Guinea-Bissau,Low income,
+GUY,Guyana,Upper-middle income,
+HTI,Haiti,Low income,
+HND,Honduras,Lower-middle income,
+HUN,Hungary,High income,G7/EU
+ISL,Iceland,High income,
+IND,India,Lower-middle income,BRICS
+IDN,Indonesia,Upper-middle income,ASEAN;BRICS
+IRN,"Iran, Islamic Rep.",Upper-middle income,BRICS
+IRQ,Iraq,Upper-middle income,
+IRL,Ireland,High income,G7/EU
+ISR,Israel,High income,
+ITA,Italy,High income,G7/EU
+JAM,Jamaica,Upper-middle income,
+JPN,Japan,High income,G7/EU
+JOR,Jordan,Upper-middle income,
+KAZ,Kazakhstan,Upper-middle income,
+KEN,Kenya,Lower-middle income,
+KOR,"Korea, Rep.",High income,
+KWT,Kuwait,High income,
+KGZ,Kyrgyz Republic,Low income,
+LAO,Lao PDR,Lower-middle income,ASEAN
+LVA,Latvia,High income,G7/EU
+LBN,Lebanon,Upper-middle income,
+LSO,Lesotho,Lower-middle income,
+LBR,Liberia,Low income,
+LTU,Lithuania,High income,G7/EU
+LUX,Luxembourg,High income,G7/EU
+MDG,Madagascar,Low income,
+MWI,Malawi,Low income,
+MYS,Malaysia,Upper-middle income,ASEAN
+MDV,Maldives,Upper-middle income,
+MLI,Mali,Low income,
+MLT,Malta,High income,G7/EU
+MRT,Mauritania,Lower-middle income,
+MUS,Mauritius,Upper-middle income,
+MEX,Mexico,Upper-middle income,
+MDA,Moldova,Upper-middle income,
+MNG,Mongolia,Upper-middle income,
+MNE,Montenegro,Upper-middle income,
+MAR,Morocco,Upper-middle income,
+MOZ,Mozambique,Low income,
+MMR,Myanmar,Lower-middle income,ASEAN
+NAM,Namibia,Upper-middle income,
+NPL,Nepal,Lower-middle income,
+NLD,Netherlands,High income,G7/EU
+NZL,New Zealand,High income,
+NIC,Nicaragua,Lower-middle income,
+NER,Niger,Low income,
+NGA,Nigeria,Lower-middle income,
+MKD,North Macedonia,Upper-middle income,
+NOR,Norway,High income,
+OMN,Oman,High income,
+PAK,Pakistan,Lower-middle income,
+PAN,Panama,High income,
+PNG,Papua New Guinea,Lower-middle income,
+PRY,Paraguay,Upper-middle income,
+PER,Peru,Upper-middle income,
+PHL,Philippines,Lower-middle income,ASEAN
+POL,Poland,High income,G7/EU
+PRT,Portugal,High income,G7/EU
+QAT,Qatar,High income,
+ROU,Romania,High income,G7/EU
+RUS,Russian Federation,Upper-middle income,BRICS
+RWA,Rwanda,Lower-middle income,
+STP,Sao Tome and Principe,Lower-middle income,
+SAU,Saudi Arabia,High income,BRICS
+SEN,Senegal,Lower-middle income,
+SRB,Serbia,Upper-middle income,
+SLE,Sierra Leone,Low income,
+SGP,Singapore,High income,ASEAN
+SVK,Slovak Republic,High income,G7/EU
+SVN,Slovenia,High income,G7/EU
+SOM,Somalia,Low income,
+ZAF,South Africa,Upper-middle income,BRICS
+SSD,South Sudan,Low income,
+ESP,Spain,High income,G7/EU
+LKA,Sri Lanka,Lower-middle income,
+SDN,Sudan,Low income,
+SUR,Suriname,Upper-middle income,
+SWE,Sweden,High income,G7/EU
+CHE,Switzerland,High income,
+SYR,Syrian Arab Republic,Lower-middle income,
+TJK,Tajikistan,Lower-middle income,
+TZA,Tanzania,Lower-middle income,
+THA,Thailand,Upper-middle income,ASEAN
+TLS,Timor-Leste,Lower-middle income,ASEAN
+TGO,Togo,Low income,
+TTO,Trinidad and Tobago,High income,
+TUN,Tunisia,Lower-middle income,
+TUR,Turkey,Upper-middle income,
+TKM,Turkmenistan,Lower-middle income,
+UGA,Uganda,Low income,
+UKR,Ukraine,Upper-middle income,
+ARE,United Arab Emirates,High income,BRICS
+GBR,United Kingdom,High income,G7/EU
+USA,United States,High income,G7/EU
+URY,Uruguay,High income,
+UZB,Uzbekistan,Upper-middle income,
+VEN,"Venezuela, RB",Upper-middle income,
+VNM,Vietnam,Lower-middle income,ASEAN
+YEM,"Yemen, Rep.",Low income,
+ZMB,Zambia,Lower-middle income,
+ZWE,Zimbabwe,Lower-middle income,
