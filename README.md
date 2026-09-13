@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Sunlight-7 SDR2025 reproducibility package
 
 This lightweight package reproduces the main calculations, clustering, sensitivity analyses, tables, and figures used in **“Spectral diagnosis of national SDG performance beyond linear aggregation.”**
@@ -80,9 +79,3 @@ pytest -q
 ```
 
 The tests verify the seven-dimensional scores against the reference workbook and verify the four archetype sample sizes.
-=======
-# Sunlight7
->>>>>>> 1c1b125bc499eca2232129af226695d22a258ffa
-=======
-# Sunlight-7-Spectral-Diagnosis
->>>>>>> c58a15ad094301918d71c7ae6c24656931b5d3e5
